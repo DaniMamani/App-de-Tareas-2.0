@@ -1,0 +1,38 @@
+[
+    {
+        "titulo": "Reparación de Pc",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Arreglo de PS5",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Compra de Memoria Ram de 8 gb Kingston",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Envió de Pedido de Pc Armado",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Envió de Monito Gamer 144HZ LG",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Reparación de Notebook",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Envió de Pack Gamer",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "Reparación de PS2",
+        "estado": "Pendiente"
+    },
+    {
+        "titulo": "Armado de Pc Gamer Extrema",
+        "estado": "Terminada"
+    }
+]
